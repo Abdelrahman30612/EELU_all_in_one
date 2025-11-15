@@ -29,7 +29,7 @@ const Instructions: React.FC<InstructionsProps> = ({ error }) => {
           </ul>
         </li>
         <li>
-          من القائمة العلوية، اذهب إلى <code className="bg-gray-700 px-2 py-1 rounded">File</code> (ملف) > <code className="bg-gray-700 px-2 py-1 rounded">Share</code> (مشاركة) > <code className="bg-gray-700 px-2 py-1 rounded">Publish to web</code> (النشر على الويب).
+          من القائمة العلوية، اذهب إلى <code className="bg-gray-700 px-2 py-1 rounded">File</code> (ملف) &gt; <code className="bg-gray-700 px-2 py-1 rounded">Share</code> (مشاركة) &gt; <code className="bg-gray-700 px-2 py-1 rounded">Publish to web</code> (النشر على الويب).
         </li>
         <li>
           في النافذة التي تظهر، اختر علامة التبويب <code className="bg-gray-700 px-2 py-1 rounded">Link</code> (رابط).
