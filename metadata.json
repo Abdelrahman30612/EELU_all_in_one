@@ -1,0 +1,5 @@
+{
+  "name": "EELU - All in one",
+  "description": "A single-page application that dynamically loads lecture videos from a public Google Sheet. It automatically creates subject tabs and displays videos in a clean, modern, and responsive interface.",
+  "requestFramePermissions": []
+}
